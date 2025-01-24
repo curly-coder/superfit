@@ -330,7 +330,7 @@ body {
     .welcome-img{
         order: 1;
         margin:20px auto 0;
-        max-width: 100%;
+        max-width: 70%;
     }
     .advantages{
         padding: 20px 40px;
@@ -342,7 +342,7 @@ body {
         flex-direction: column;
     }
     .advantages-img{
-        max-width: 100%;
+        max-width: 70%;
         margin: 20px auto 0;
     }
     .membership-top__content-title{
@@ -351,6 +351,7 @@ body {
     .footer{
         padding: 20px;
     }
+    
 }
 @media (max-width:650px) {
     .footer-inner{
